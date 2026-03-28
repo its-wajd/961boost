@@ -2,7 +2,7 @@
 by WAJD DEV × Ahmed
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2500&color=00FFB3&center=true&vCenter=true&width=900&lines=961Boost+Platform;SMM+Services+for+Lebanon;Transparent+Pricing+%2B+Trusted+Providers;Powered+by+Local+Payments;Launching+Soon+🚀" /> </p> <p align="center"> <b>📈 Social Growth • 💳 Local Payments • 🇱🇧 Built for Lebanon</b><br> <i>Making social media services accessible, transparent, and trusted</i> </p>
 ⚡ Project Status
-<p align="center"> <img src="https://img.shields.io/badge/Status-Not%20Launched-yellow?style=for-the-badge"/> <img src="https://img.shields.io/badge/Market-Lebanon-red?style=for-the-badge"/> <img src="https://img.shields.io/badge/Type-SMM%20Platform-blue?style=for-the-badge"/> </p>
+<p align="center"> <img src="https://img.shields.io/badge/Status-%20Launched-yellow?style=for-the-badge"/> <img src="https://img.shields.io/badge/Market-Lebanon-red?style=for-the-badge"/> <img src="https://img.shields.io/badge/Type-SMM%20Platform-blue?style=for-the-badge"/> </p>
 🌐 Platform
 <p align="center"> <a href="https://961boost.com"> <img src="https://img.shields.io/badge/🌐_Visit_Website-961Boost-black?style=for-the-badge"/> </a> <a href="mailto:support@961boost.com"> <img src="https://img.shields.io/badge/📩_Contact-support@961boost.com-blue?style=for-the-badge"/> </a> </p>
 🧠 About 961Boost
